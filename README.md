@@ -12,19 +12,19 @@ Créer une app de e-commerce avec une interface d'administration des produits et
 #### Clients
 - Client pour les utilisteurs
   - Consulter des produits (listes, page produit...)
-  - Rechercher de produits / catégories
-  - Créer un compte
-  - Ajouter des produits à mon panier
-  - Passer une commande (**pas de gestion du paiement**, mais envoie d'un email de confirmation)
-  - Consulter l'état de mes commandes
-  - Modification des informations personnelles (adresse, numéro de téléphone...)
-  - Donner une note et écrire un commentaire sur un produit
+  - Rechercher de produits / catégories
+  - Créer un compte
+  - Ajouter des produits à mon panier
+  - Passer une commande (**pas de gestion du paiement**, mais envoie d'un email de confirmation)
+  - Consulter l'état de mes commandes
+  - Modification des informations personnelles (adresse, numéro de téléphone...)
+  - Donner une note et écrire un commentaire sur un produit
 - Client pour l'administration
-  - Se connecter au _back end_ avec autorisation seulement pour les administrateurs
-  - Créer des produits (nom, description, catégorie, image, prix...etc.)
-  - Faire avancer les étapes de commande (demandée > confirmée > expédiée > livrée)
-  - Modérer les notes / commentaires
-  - Créer des administrateurs
+  - Se connecter au _back end_ avec autorisation seulement pour les administrateurs
+  - Créer des produits (nom, description, catégorie, image, prix...etc.)
+  - Faire avancer les étapes de commande (demandée > confirmée > expédiée > livrée)
+  - Modérer les notes / commentaires
+  - Créer des administrateurs
 
 #### Serveur
 - Apache ou Nginx pour gérer les requêtes entrantes, les URLs, le cache...

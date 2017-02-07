@@ -34,7 +34,7 @@ Créer une app de e-commerce avec une interface d'administration des produits et
 - API REST permettant d'intéragir avec la base de données (à utiliser pour _au moins_ un des 2 clients)
 
 ### Technologies utilisées
-- Développement : **100% libre**. Le choix et la justification des outils utilisés seront cependant pris en compte.
+- Développement : **100% libre**. Le choix et la justification des outils utilisés seront cependant pris en compte :eyes:
 - Gestion des sources : [Git](https://git-scm.com/) (cf. section [livrables](#livrables))
 
 ## Critères d'évaluation

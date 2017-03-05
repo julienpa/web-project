@@ -57,7 +57,7 @@ Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront ê
 - Répartition du travail dans l'équipe
 
 ## Livrables
-- Dernière semaine d'avril, probablement le 28/04 avec soutenance le 01/05 (_à confirmer_).
+- Projet à envoyer par email la dernière semaine d'avril, probablement le **28/04** avec soutenance le **01/05** (_à confirmer_).
 - Votre projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner
 - Soutenance (30-40 minutes) : présentation du projet, des choix techniques et de son déroulement, démo du résultat, questions/réponses

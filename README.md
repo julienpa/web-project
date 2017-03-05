@@ -49,15 +49,15 @@ Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront ê
 
 ## Critères d'évaluation
 - Pertinence des **choix techniques**
-- Attention particulière portée à la **qualité du code**: HTML, CSS, JS, PHP (ou autre 😉)
+- Attention particulière portée à la **qualité du code** : HTML, CSS, JS, PHP (ou autre 😉)
 - Développement de composants d'interface réutilisables
 - Sécurité des données, de l'application et de l'authentification
 - Documentation
-- Utilisation du git: organisation du repository et des branches, utilisations de PR/MR, fréquence et cohérence des commits
+- Utilisation de git : organisation du repository et des branches, utilisations de PR/MR, fréquence et cohérence des commits
 - Répartition du travail dans l'équipe
 
 ## Livrables
-- _date à préciser_
+- Dernière semaine d'avril, probablement le 28/04 avec soutenance le 01/05 (_à confirmer_).
 - Votre projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner
 - Soutenance (30-40 minutes) : présentation du projet, des choix techniques et de son déroulement, démo du résultat, questions/réponses
@@ -67,6 +67,6 @@ Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront ê
 - Faire une démo avec les clients et le serveur sur 2 machines différentes
 - Ajout de fonctionnalités que vous jugez utiles ou intéressantes
 - Tests unitaires
-- Déploiement en ligne: Heroku, DigitalOcean, Scaleway...
+- Déploiement en ligne : Heroku, DigitalOcean, Scaleway...
 - Mise en place de la stack Webpack/Babel/ESLint/Flow (même partiellement, par exemple uniquement Webpack et Babel)
 - Utilisation d'un framework ou d'une librairie front-end (Ember, Angular, React, Vue...)

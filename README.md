@@ -25,6 +25,16 @@ Créer une app de e-commerce avec une interface d'administration des produits et
   - Faire avancer les étapes de commande (demandée > confirmée > expédiée > livrée)
   - Modérer les notes / commentaires
   - Créer des administrateurs
+  
+Les clients doivent être fonctionnels sur les principaux navigateurs récents du marché : 
+
+- Firefox 51 et supérieurs
+- Chrome 56 et supérieurs
+- Edge 14 et supérieurs
+- Internet Explorer 11
+- Safari 10 et supérieurs
+
+Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront être réalisables sans rechargement de la page.
 
 #### Serveur
 - Apache ou Nginx pour gérer les requêtes entrantes, les URLs, le cache...
@@ -40,6 +50,7 @@ Créer une app de e-commerce avec une interface d'administration des produits et
 ## Critères d'évaluation
 - Pertinence des **choix techniques**
 - Attention particulière portée à la **qualité du code**: HTML, CSS, JS, PHP (ou autre 😉)
+- Développement de composants d'interface réutilisables
 - Sécurité des données, de l'application et de l'authentification
 - Documentation
 - Utilisation du git: organisation du repository et des branches, utilisations de PR/MR, fréquence et cohérence des commits
@@ -57,3 +68,5 @@ Créer une app de e-commerce avec une interface d'administration des produits et
 - Ajout de fonctionnalités que vous jugez utiles ou intéressantes
 - Tests unitaires
 - Déploiement en ligne: Heroku, DigitalOcean, Scaleway...
+- Mise en place de la stack Webpack/Babel/ESLint/Flow (même partiellement, par exemple uniquement Webpack et Babel)
+- Utilisation d'un framework ou d'une librairie front-end (Ember, Angular, React, Vue...)

@@ -41,7 +41,7 @@ Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront ê
 - Langage de scripting
 - Système de gestion de base de données
 - Authentification (Session ou OAuth)
-- API REST permettant d'intéragir avec la base de données (à utiliser pour _au moins_ un des 2 clients)
+- API permettant d'intéragir avec la base de données (à utiliser pour _au moins_ un des 2 clients)
 
 ### Technologies utilisées
 - Développement : **100% libre**. Le choix et la justification des outils utilisés seront cependant pris en compte :eyes:
@@ -55,10 +55,12 @@ Ceux-ci doivent être dynamiques, c'est à dire que certaines actions devront ê
 - Documentation
 - Utilisation de git : organisation du repository et des branches, utilisations de PR/MR, fréquence et cohérence des commits
 - Répartition du travail dans l'équipe
+- Clarté et qualité de la présentation du projet (générale, fonctionnelle et technique)
 
 ## Livrables
-- Projet à envoyer par email la dernière semaine d'avril, probablement le **28/04** avec soutenance le **01/05** (_à confirmer_).
-- Votre projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
+- Projet à envoyer par email la dernière semaine d'avril, probablement le **28/04** avec soutenance le **01/05** (_à confirmer_)
+- Le projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
+- Invitez les 2 enseignants comme _reporters_ ou _contributeurs_ de votre projet
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner
 - Soutenance (30-40 minutes) : présentation du projet, des choix techniques et de son déroulement, démo du résultat, questions/réponses
 

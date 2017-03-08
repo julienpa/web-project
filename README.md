@@ -21,7 +21,7 @@ Créer une app de e-commerce avec une interface d'administration des produits et
   - Donner une note et écrire un commentaire sur un produit
 - Client pour l'administration
   - Se connecter au _back end_ avec autorisation seulement pour les administrateurs
-  - Créer des produits (nom, description, catégorie, image, prix...etc.)
+  - Créer des produits (nom, description, catégorie, image, prix, quantité...etc.)
   - Faire avancer les étapes de commande (demandée > confirmée > expédiée > livrée)
   - Modérer les notes / commentaires
   - Créer des administrateurs

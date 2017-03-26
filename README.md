@@ -1,6 +1,6 @@
 # Projet web
 Informations complètes du projet de programmation web  
-Questions : email à Cyrille **et** Julien
+Questions : email à Cyrille **et** Julien, ou #projetweb sur Slack
 
 ## Objectif
 Évaluer les capacités à développer une application web avec toutes les technologies front et back (client et serveur) qui ont été vues en cours.

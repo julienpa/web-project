@@ -11,6 +11,18 @@
 |
 */
 
-$app->get('/', function () use ($app) {
-    return $app->version();
+$app->get('/', function () {
+    return 'Ca marche !!';
+});
+
+$app->get('/articles', 'ArticleController@getall');
+$app->get('/articles/{id_article}', 'ArticleController@get');
+$app->get('/articles/{id_article}/comments', 'CommentController@get_by_article');
+
+$app->group(['middleware' => 'auth'], function () use ($app) {
+  $app->post('articles/{id_article}/comments', 'CommentController@create');
+
+  $app->put('articles/{id_article}/comments/{id_comment}', 'CommentController@update');
+
+  $app->delete('articles/{id_article}/comments/{id_comment}', 'CommentController@delete');
 });

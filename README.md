@@ -67,5 +67,5 @@ fréquence et cohérence des commits
 - Ajout de fonctionnalités que vous jugez utiles ou intéressantes
 - Tests unitaires
 - Déploiement en ligne : Heroku, DigitalOcean, Scaleway...
-- Mise en place de la stack Webpack/Babel/ESLint/Flow (même partiellement, par exemple uniquement Webpack et Babel)
-- Utilisation d'un framework ou d'une librairie front-end (Ember, Angular, React, Vue...)
+- Mise en place de la stack Webpack/Babel/ESLint (même partiellement)
+- Utilisation d'un framework ou d'une librairie front-end

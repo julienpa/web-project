@@ -1,5 +1,5 @@
 # Projet web
-Informations complètes du projet de programmation web  
+Informations complètes du projet de programmation web
 Questions : email à Cyrille + Alexandre + Julien, ou #projetweb sur Slack
 
 ## Objectif
@@ -14,7 +14,7 @@ Créer une app de type _TODO List_ avec une gestion de tâches et des utilisteur
 - Pré-requis technique
   - Le client doit être une app JS frontend qui tourne dans le navigateur
   - Le client doit être fonctionnel sur les principaux navigateurs récents du marché
-  (Firefox, Chrome, Edge) 
+  (Firefox, Chrome, Edge)
 - Fonctionnalités minimales
   - Créer un compte utilisateur (email, nom d'utilisateur, mot de passe, date de naissance, photo)
   - Connexion et déconnexion à l'app

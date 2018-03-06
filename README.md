@@ -1,6 +1,9 @@
 # Projet web
 Informations complètes du projet de programmation web
-Questions : email à Cyrille + Alexandre + Julien, ou #projetweb sur Slack
+Questions :
+
+* email à Cyrille + Alexandre + Julien, ou #projetweb sur Slack
+* [ouvrir une issue](https://github.com/julienpa/web-project/issues/new)
 
 ## Objectif
 Évaluer les capacités à développer une application web avec toutes les technologies front

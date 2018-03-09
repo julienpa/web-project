@@ -13,6 +13,9 @@ et back (client et serveur) qui ont été vues en cours.
 Créer une app de type _TODO List_ avec une gestion de tâches et des utilisteurs.
 
 ### Fonctionnalitées demandées
+
+![Mockup TODOList app](mockup_projet.png)
+
 #### Client
 - Pré-requis technique
   - Le client doit être une app JS frontend qui tourne dans le navigateur

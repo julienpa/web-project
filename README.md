@@ -12,9 +12,14 @@ et back (client et serveur) qui ont été vues en cours.
 ## Cahier des charges
 Créer une app de type _TODO List_ avec une gestion de tâches et des utilisteurs.
 
-### Fonctionnalitées demandées
+### Maquette d'interface possible
+
+Donnée à titre d'exemple et pour inspiration seulement. Vous pouvez faire quelque chose
+de très ressemblant ou très éloigné.
 
 ![Mockup TODOList app](mockup_projet.png)
+
+### Fonctionnalitées demandées
 
 #### Client
 - Pré-requis technique
@@ -23,16 +28,16 @@ Créer une app de type _TODO List_ avec une gestion de tâches et des utilisteur
   (Firefox, Chrome, Edge)
 - Fonctionnalités minimales
   - Créer un compte utilisateur (email, nom d'utilisateur, mot de passe, date de naissance, photo)
+  - Envoyer un email lors de la création du compte
   - Connexion et déconnexion à l'app
   - Modifier son profil
   - Créer, modifier et supprimer des listes
   - Créer, modifier et supprimer des tâches
   - Changer le statut d'une tâche (todo / completée)
 - Fonctionnalités bonus
-  - Envoie d'email lors de la création du compte
-  - Inviter des utilisateurs à collaborer sur une liste
   - Créer et supprimer des sous-tâches
-  - Définir la progression d'une tâche principale en fonction de ses sous-tâches
+  - Définir la progression (%) d'une tâche principale en fonction de ses sous-tâches
+  - Inviter des utilisateurs à collaborer sur une liste
 
 #### Serveur
 - Créer un serveur d'API avec toutes les routes et fonctionnalités qu'il est nécessaire
@@ -42,6 +47,7 @@ d'exposer
 
 Bonus
 - Authentification par token (Oauth 2, auth0, JWT)
+- HTTPS avec Cloudflare
 
 ### Technologies utilisées
 - Pour le développement, vous pouvez utiliser n'importe quelles solutions techniques (en
@@ -61,11 +67,11 @@ fréquence et cohérence des commits
 - Clarté et qualité de la présentation du projet (générale, fonctionnelle et technique)
 
 ## Livrables
-- Projet à envoyer par email courant avril, **date exacte à confirmer**.
+- Projet à envoyer par emaill, **le 16 avril 2018 au soir**.
 - Le projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
 - Invitez les 3 enseignants comme _reporters_ ou _contributeurs_ de votre projet
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner
-- Soutenance :
+- Soutenance (date à confirmer) :
   - Présentation du projet, des choix techniques et de son déroulement (5 minutes)
   - Démo du résultat (15 minutes)
   - Questions/réponses (5-10 minutes)

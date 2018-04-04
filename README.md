@@ -31,6 +31,7 @@ de très ressemblant ou très éloigné.
   - Envoyer un email lors de la création du compte
   - Connexion et déconnexion à l'app
   - Modifier son profil
+  - Créer des listes qui ont un nom
   - Créer, modifier et supprimer des listes
   - Créer, modifier et supprimer des tâches
   - Changer le statut d'une tâche (todo / completée)
@@ -67,7 +68,7 @@ fréquence et cohérence des commits
 - Clarté et qualité de la présentation du projet (générale, fonctionnelle et technique)
 
 ## Livrables
-- Projet à envoyer par emaill, **le 16 avril 2018 au soir**.
+- Projet à envoyer par email au plus tard **le 1er mai 2018 à 23h59**.
 - Le projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
 - Invitez les 3 enseignants comme _reporters_ ou _contributeurs_ de votre projet
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner

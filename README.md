@@ -1,7 +1,7 @@
 # Projet web
 Informations complètes du projet de programmation web
-Questions :
 
+Questions :
 * email à Cyrille + Alexandre + Julien, ou #projetweb sur Slack
 * [ouvrir une issue](https://github.com/julienpa/web-project/issues/new)
 
